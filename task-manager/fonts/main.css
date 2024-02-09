@@ -1,0 +1,181 @@
+@font-face {
+	font-family: RobotoBold;
+	src: url("fonts/Roboto/Roboto-Bold.ttf");
+}
+
+* {
+	font-family: RobotoBold;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	text-decoration: none;
+}
+
+.navbar-container {
+	background: gray;
+	display: flex;
+	padding: 10px;
+	color: white;
+	justify-content: space-evenly;
+}
+
+.left-menu p {
+	margin-left: 20px;
+}
+
+.right-menu a {
+	font-weight: 600;
+	color: white;
+	margin: 30px;
+}
+
+.main-container {
+	display: flex;
+}
+
+.space-form-prompt {
+	position : fixed;
+	top: 40%;
+	display: flex;
+	color: white;
+	left: 40%;
+	padding: 40px;
+	border-radius: 20px;
+	background: gray;
+}
+
+.space-form-prompt label {
+	margin: 10px;
+}
+
+.task-space {
+	padding: 30px;
+	background-color: gray;
+}
+
+.workspace-container {
+	background: darkgray;
+	color: white;
+	height: 100svh;
+	text-align: center;
+	width: 14%;
+}
+
+.workspace-container h2 {
+	padding: 10px;
+}
+
+.wksp-close-button {
+	position: fixed;
+	left: 17%;
+	top: 50%;
+	border-radius: 20px;
+	padding: 10px;
+	user-select: none;
+	cursor: pointer;
+	background: dimgray;
+	width: fit-content;
+	color: white;
+}
+
+#submit {
+	background-color: green;
+	padding: 10px;
+	color: white;
+	border-radius: 10px;
+}
+
+#check-max {
+	display: none;
+	color: red;
+}
+
+.main-todo-container {
+	width: 100%;
+	height: fit-content;
+	background: lightgray;
+	user-select: none;
+	cursor: pointer;
+}
+/*.@K5%nnKAWY.Wfk*/
+
+.item-properties {
+	padding: 10px;
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.to-do-item {
+	padding: 10px;
+	background-color: #404040;
+	display: flex;
+	color: white;
+	justify-content: space-evenly;
+}
+
+.control-buttons {
+	position: fixed;
+	bottom: 5%;
+	display: flex;
+	right: 16%;
+}
+
+.ctrl-button {
+	color: white;
+	margin: 20px;
+	background: green;
+	padding: 15px;
+	height: fit-content	;
+	border-radius: 20px;
+	user-select: none;
+	cursor: pointer;
+	display: flex;
+}
+
+.create-button {
+	color: white;
+	margin: 20px;
+	padding: 10px;
+	background: green;
+	height: fit-content	;
+	border-radius: 20px;
+	user-select: none;
+	cursor: pointer;
+	display: flex;
+	height: fit-content;
+	text-align: center;
+}
+
+.create-logo {
+	margin-right: 10px;
+	padding: 1px;
+	height: 30px;
+	border-radius: 50%;
+	background: white;
+	color: dimgray;
+	font-size: 2rem;
+}
+
+.create-prompt {
+	position: fixed;
+	top: 40%;
+	left: 40%;
+	padding: 20px;
+	border-radius: 20px;
+	border: 2px solid gray;
+	background: lightgray;
+	color: black;
+	text-align: center;
+	display: none;
+}
+
+.create-prompt p, input {
+	margin: 5px;
+	border-radius: 5px;
+}
+
+.create-prompt input {
+	padding: 6px;
+}
+
+/*	JAVASCRIPT ELEMENTS		*/

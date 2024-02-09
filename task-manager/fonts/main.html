@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Task manager</title>
+	<link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+	<header class="navbar-container">
+		<div class="left-menu">
+			<h1 id="greetings">Hi <span id="user-name">User</span></h1>
+			<p>Welcome back</p>
+		</div>
+		<div class="right-menu">
+			<a href="#">Login</a>
+			<a href="#">Sign up</a>
+		</div>
+	</header>
+	<section id="main" class="main-container">
+		<div class="workspace-container">
+			<h2>Task space</h2>
+		</div>
+		<div class="main-todo-container">
+			<div class="item-properties">
+				<p>Task name</p>
+				<p>Status</p>
+				<p>Task date creation</p>
+				<p>Deadline</p>
+			</div>
+			<div class="todo-items-container"></div>
+		</div>
+		<div class="control-buttons">
+			<div class="create-button" onclick="ShowCreatePrompt()"><div class="create-logo">+</div>New task</div>
+			<div class="ctrl-button">Edit task</div>
+			<div id="dlte-button" class="ctrl-button">Delete task</div>
+			<div class="ctrl-button">Save workspace</div>
+			<div class="ctrl-button" onclick="AddNewTaskSpace(); return false">New workspace</div>
+		</div>
+		<div id="crt-prompt" class="create-prompt">
+			<form onsubmit="CreateToDo(taskName.value, deadlineInput.value);return false">
+				<label for="taskName">Task name</p></label>
+				<input id="taskName" type="text" name="taskName" maxlength="20">
+				<p id="check-max">Too long</p><br>
+				<label for="deadline">Deadline</p></label>
+				<input id="deadlineInput" type="datetime-local" name="deadline">
+				<input id="submit" type="submit" name="submitForm" value="Add">
+			</form>
+		</div>
+	</section>
+	<script type="text/javascript" src="main.js"></script>
+</body>
+</html>
