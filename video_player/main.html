@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="main.css">
+	<title>Video player</title>
+</head>
+<body>
+	<header class="navbar">
+		<div class="navbar-container">
+			<a href="#">Home</a>
+		</div>
+	</header>
+	<section class="main">
+		<div class="video-container">
+			<video width="800" height="500" controls autoplay>
+				<source src="" type="video/mp4">
+			</video>
+		</div>
+		<div class="playlist-container">
+			<div class="season-container">
+				<p>Season: <span id="season-count">1</span></p>
+				<div class="change-season-container">
+					<div class="button" onclick="ShowMenu()">Seasons</div>
+					<div class="change-season-menu" id="change-season-menu">
+						<a href="#">Season 1</a>
+						<a href="#">Season 2</a>
+						<a href="#">Season 3</a>
+					</div>
+				</div>
+			</div>
+			<div class="videos"></div>
+		</div>
+	</section>
+	<footer>
+		<div class="most-played">
+			most played
+		</div>
+	</footer>
+	<script type="text/javascript" src="main.js"></script>
+</body>
+</html>
