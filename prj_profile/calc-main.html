@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Calc</title>
+	<link rel="stylesheet" type="text/css" href="calc-main.css">
+</head>
+<body>
+	<a href="javascript:history.back()"><div class="back">Go back</div></a>
+	<section class="calc-container">
+		<div class="calc-box">
+			<div class="input">
+				<input id="input-field" type="text" value="">
+			</div>
+		<div class="button-container">
+			<div class="button" onclick="Button(this.innerHTML)">1</div>
+			<div class="button" onclick="Button(this.innerHTML)">2</div>
+			<div class="button" onclick="Button(this.innerHTML)">3</div>
+			<div class="button" onclick="Button(this.innerHTML)">4</div>
+			<div class="button" onclick="Button(this.innerHTML)">5</div>
+			<div class="button" onclick="Button(this.innerHTML)">6</div>
+			<div class="button" onclick="Button(this.innerHTML)">7</div>
+			<div class="button" onclick="Button(this.innerHTML)">8</div>
+			<div class="button" onclick="Button(this.innerHTML)">9</div>
+			<div class="button" onclick="Button(this.innerHTML)">0</div>
+			<div class="button" onclick="Button(this.innerHTML)">+</div>
+			<div class="button" onclick="Button(this.innerHTML)">-</div>
+			<div class="button" onclick="Button(this.innerHTML)">/</div>
+			<div class="button" onclick="Button(this.innerHTML)">*</div>
+			<div class="button" onclick="RemButton(this.innerHTML)">rem</div>
+			<div class="button" onclick="Total()">=</div>
+		</div>
+	</div>
+	</section>
+	<section class="convertion-container">
+		<div class="menu-button" onclick="ShowMenu()">Convert</div>
+		<div class="selection">
+			<a onclick="Menu(this.innerHTML)">Temperature</a>
+			<a onclick="Menu(this.innerHTML)">Number system</a>
+		</div>
+		<div class="temperature-convertion">
+			<div class="input">
+				<input id="inpt" type="text" value="">
+				<h2 id="unit">°C</h2>
+			</div>
+			<div class="scales">
+				<div class="units">
+					<div class="temp" onclick="SetUnit('C')">Celsius (°C)</div>
+					<div class="temp" onclick="SetUnit('F')">Farenheit (°F)</div>
+					<div class="temp" onclick="SetUnit('K')">Kelvin (K)</div>
+				</div>
+				<div class="arrow"></div>
+				<div class="units">
+					<div class="temp" onclick="Converting('C')">Celsius (°C)</div>
+					<div class="temp" onclick="Converting('F')">Farenheit (°F)</div>
+					<div class="temp" onclick="Converting('K')">Kelvin (K)</div>
+				</div>
+			</div>
+		</div>
+		<div class="numsys-convertion">
+			<div class="input">
+				<input id="number" type="text" value="">
+				<h2 id="base">10</h2>
+			</div>
+			<div class="convertion">
+				<div class="bases-button">
+					<div class="temp" onclick="ConvertNum('2')">Decimal (base 10)</div>
+					<div class="temp" onclick="ConvertNum('2')">Binary (base 2)</div>
+					<div class="temp" onclick="ConvertNum('8')">Octal (base 8)</div>
+					<div class="temp" onclick="ConvertNum('16')">Hexadecimal (base 16)</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<script type="text/javascript" src="calc-main.js"></script>
+</body>
+</html>

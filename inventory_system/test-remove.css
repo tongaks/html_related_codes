@@ -1,0 +1,30 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.item-container {
+	display: flex;
+	background-color: lightgreen;
+}
+
+.close-button {
+	padding: 10px;
+	cursor: pointer;
+	width: fit-content;
+	background-color: red;
+	user-select: none;
+}
+
+.add-button {
+	user-select: none;
+	padding: 10px;
+	margin: 20px;
+	cursor: pointer;
+	background-color: green;
+	width: fit-content;
+	color: white;
+	position: fixed;
+	top: 50%;
+	left: 5%;
+}

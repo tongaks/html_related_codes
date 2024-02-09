@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Image resize</title>
+	<link rel="stylesheet" type="text/css" href="main.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+</head>
+<body ng-app="image-container" ng-controller="ctrl">
+	<div class="container">
+		<img ng-style="image" src="image.jpeg">
+	</div>
+	<button ng-click="increaseWidth()">Increase width</button>
+	<button ng-click="increaseHeight()">Increase height</button>
+	<script type="text/javascript">
+		let app = angular.module('image-container', []);
+		app.controller('ctrl', ($scope) => {
+			$scope.width = 100;
+			$scope.height = 100;
+
+			$scope.image = {
+				'width' : $scope.width + 'px',
+				'height' : $scope.height + 'px'
+			}
+
+			$scope.increaseWidth = () => {
+				$scope.width+=20;
+				$scope.image.width = $scope.width + 'px';
+			};
+
+			$scope.increaseHeight = () => {
+				$scope.height+=20;
+				$scope.image.height = $scope.height + 'px';				
+			};
+		});
+	</script>
+</body>
+</html>

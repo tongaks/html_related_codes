@@ -1,0 +1,30 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.placard-container {
+	display: grid;
+	padding: 20px;
+    width: fit-content;
+}
+
+.placard {
+	border-radius: 20px;
+    height: fit-content;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    transition: 0.3s;
+}
+
+.placard:hover {
+    box-shadow: 2px 2px 9px rgba(0, 0, 0, 0.5);
+}
+
+.placard img {
+	width: 400px;
+	height: 400px;
+	margin-bottom: 30px;
+}

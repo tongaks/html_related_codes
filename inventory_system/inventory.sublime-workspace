@@ -1,0 +1,964 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ite",
+				"currentItems"
+			],
+			[
+				"lcose",
+				"CloseButton"
+			],
+			[
+				"pr",
+				"PromptRemove"
+			],
+			[
+				"prompt",
+				"promptRemove"
+			],
+			[
+				"prmpt",
+				"promptRemove"
+			],
+			[
+				"it",
+				"items"
+			],
+			[
+				"item",
+				"itemDelivery"
+			],
+			[
+				"elee",
+				"element"
+			],
+			[
+				"ele",
+				"elementArray"
+			],
+			[
+				"grid-tem",
+				"grid-template-columns"
+			],
+			[
+				"lightgr",
+				"lightgreen"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"gap",
+				"row-gap"
+			],
+			[
+				"trans",
+				"translateX()"
+			],
+			[
+				"bor",
+				"rosybrown"
+			],
+			[
+				"br",
+				"burlywood"
+			],
+			[
+				"bacg",
+				"background-color"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"img",
+				"img"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"transition",
+				"transition-duration"
+			],
+			[
+				"tra",
+				"translateX()"
+			],
+			[
+				"tras",
+				"transform"
+			],
+			[
+				"nav",
+				"navlist"
+			],
+			[
+				"justi",
+				"justify-content"
+			],
+			[
+				"drop",
+				"dropdown-button"
+			],
+			[
+				"dark",
+				"darkgray"
+			],
+			[
+				"psi",
+				"position"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"fl",
+				"inline-flex"
+			],
+			[
+				"Conver",
+				"ConvertNum"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"just",
+				"justify-items"
+			],
+			[
+				"align",
+				"align-content"
+			],
+			[
+				"scrit",
+				"script\tHTML - Script"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"grid",
+				"grid-gap"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"onmouseo",
+				"onmouseover"
+			],
+			[
+				"onmouse",
+				"onmouseenter"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"htl",
+				"html\thtml"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"anv",
+				"nav-menu"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"ul",
+				"ul"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"gr",
+				"grid-gap"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"cha",
+				"chocolate"
+			],
+			[
+				"darkg",
+				"darkgrey"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"s",
+				"sticky"
+			],
+			[
+				"script",
+				"script\tHTML - Script"
+			],
+			[
+				"inp",
+				"inp:check\tHTML - Input:checkbox"
+			],
+			[
+				"txt",
+				"text-justify"
+			],
+			[
+				"bacgr",
+				"background-color"
+			],
+			[
+				"nad",
+				"bandit"
+			],
+			[
+				"in",
+				"inp:submit\tHTML - Input:submit"
+			],
+			[
+				"jsut",
+				"justify-items"
+			],
+			[
+				"css",
+				"css\tHTML - Style tag"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"na",
+				"nav\tHTML - Navigation object (inline-block)"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"justify",
+				"justify-items"
+			],
+			[
+				"justif",
+				"justify-tracks"
+			],
+			[
+				"me",
+				"menu-item"
+			],
+			[
+				"men",
+				"menu-item"
+			],
+			[
+				"whie",
+				"whitesmoke"
+			],
+			[
+				"l",
+				"li"
+			],
+			[
+				"lef",
+				"left"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"place",
+				"place-items"
+			],
+			[
+				"st",
+				"sticky"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"lightg",
+				"lightgray"
+			],
+			[
+				"chec",
+				"checkBox"
+			],
+			[
+				"fnt",
+				"font-face"
+			],
+			[
+				"encry",
+				"encrypted"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"element",
+				"elementIdPassword"
+			],
+			[
+				"flex-",
+				"flex-wrap"
+			],
+			[
+				"ht",
+				"html\thtml"
+			],
+			[
+				"animai",
+				"animation"
+			],
+			[
+				"line",
+				"linear-gradient()"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"tr",
+				"translateY()"
+			],
+			[
+				"blue",
+				"skyblue"
+			],
+			[
+				"dropdon",
+				"dropdown-items"
+			],
+			[
+				"dor",
+				"dropdown"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"cof",
+				"coffee-container-items"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"b",
+				"border-radius"
+			],
+			[
+				"cofe",
+				"coffee-menu-container"
+			],
+			[
+				"main",
+				"main-menu-item"
+			],
+			[
+				"light",
+				"lightgray"
+			],
+			[
+				"bacground-",
+				"background-size"
+			],
+			[
+				"t",
+				"translateX()"
+			],
+			[
+				"bro",
+				"burlywood"
+			],
+			[
+				"brow",
+				"rosybrown"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"margin-b",
+				"margin-bottom"
+			],
+			[
+				"de",
+				"text-decoration"
+			],
+			[
+				"pro",
+				"projects-images"
+			],
+			[
+				"gray",
+				"darkgray"
+			],
+			[
+				"ban",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": ":",
+			"settings":
+			{
+				"buffer_size": 1,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"insert",
+					{
+						"characters": ":"
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"l",
+				"Live Server: Start"
+			],
+			[
+				"live",
+				"Live Server: Start"
+			],
+			[
+				"livev",
+				"Live Server: Open In Browser"
+			],
+			[
+				"live s",
+				"Live Server: Start"
+			],
+			[
+				"lve",
+				"Live Server: Open In Browser"
+			],
+			[
+				"liv",
+				"Live Server: Start"
+			],
+			[
+				"preferences: liv",
+				"Preferences: Live Server Settings"
+			],
+			[
+				"Live S",
+				"Live Server: Open In Browser"
+			],
+			[
+				"Package Control: is",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: isnt",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 166.0,
+		"history":
+		[
+			"exit",
+			"sfasf",
+			"echo sahddf"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/bandit-heeler/Downloads/javascript/projects/inventory_system/main.html",
+		"/home/bandit-heeler/Downloads/javascript/projects/inventory_system/main.js",
+		"/home/bandit-heeler/Downloads/javascript/projects/inventory_system/main.css",
+		"/home/bandit-heeler/Downloads/javascript/projects/prj_profile/calc.css",
+		"/home/bandit-heeler/Downloads/javascript/projects/prj_profile/dropdown.css",
+		"/home/bandit-heeler/Downloads/javascript/projects/prj_profile/calc-main.css",
+		"/home/bandit-heeler/Downloads/javascript/projects/prj_profile/another-new-portfolio-page.css",
+		"/home/bandit-heeler/Downloads/javascript/projects/prj_profile/project-page.css",
+		"/home/bandit-heeler/Downloads/javascript/projects/prj_profile/portfolio-main.css",
+		"/home/bandit-heeler/Downloads/javascript/projects/prj_profile/portfolio-main.js",
+		"/home/bandit-heeler/Downloads/javascript/projects/prj_profile/main.js",
+		"/home/bandit-heeler/Downloads/javascript/projects/prj_profile/calc-main.js",
+		"/home/bandit-heeler/Downloads/javascript/projects/prj_profile/create_element.html",
+		"/home/bandit-heeler/Downloads/javascript/projects/prj_profile/calc-main.html",
+		"/home/bandit-heeler/Downloads/javascript/projects/prj_profile/another-new-portfolio-page.html",
+		"/home/bandit-heeler/Downloads/javascript/projects/prj_profile/project-page.js",
+		"/home/bandit-heeler/Downloads/javascript/projects/prj_profile/test_drop-down.html",
+		"/home/bandit-heeler/Downloads/javascript/projects/prj_profile/project-page.html",
+		"/home/bandit-heeler/Downloads/javascript/projects/prj_profile/portfolio-main.html",
+		"/home/bandit-heeler/Downloads/javascript/projects/prj_profile/main.html",
+		"/home/bandit-heeler/Downloads/javascript/projects/prj_profile/calc.html",
+		"/home/bandit-heeler/Downloads/javascript/projects/prj_profile/another-test.html",
+		"/home/bandit-heeler/Downloads/javascript/projects/prj_profile/another.css",
+		"/home/bandit-heeler/Downloads/javascript/projects/prj_profile/calc_test.js",
+		"/home/bandit-heeler/Downloads/javascript/projects/prj_profile/calc_test.html",
+		"/home/bandit-heeler/Downloads/javascript/projects/prj_profile/calc._test.css",
+		"/home/bandit-heeler/Downloads/javascript/projects/prj_profile/side_another.css",
+		"/home/bandit-heeler/Downloads/javascript/projects/prj_profile/main.css",
+		"/home/bandit-heeler/Downloads/javascript/projects/prj_profile/side_another.html",
+		"/home/bandit-heeler/Downloads/javascript/responsive/side_portfolio/side_another.js",
+		"/home/bandit-heeler/Downloads/javascript/projects/prj_profile/main2nd.js",
+		"/home/bandit-heeler/Downloads/javascript/projects/prj_profile/main2nd.html",
+		"/home/bandit-heeler/Downloads/cpp_codes/filenamechange.cpp",
+		"/home/bandit-heeler/Downloads/javascript/profile/main.css",
+		"/home/bandit-heeler/Downloads/javascript/responsive/side_close_main/main.html",
+		"/home/bandit-heeler/Downloads/javascript/responsive/side_close_main/main.js",
+		"/home/bandit-heeler/Downloads/javascript/responsive/side_close_main/main.css",
+		"/home/bandit-heeler/Downloads/javascript/profile/main.js",
+		"/home/bandit-heeler/Downloads/javascript/dark_mode.html/dark_mode.js",
+		"/home/bandit-heeler/Downloads/javascript/profile/main.html",
+		"/home/bandit-heeler/.config/sublime-text/Packages/User/untitled.sublime-build",
+		"/home/bandit-heeler/Downloads/javascript/dark_mode.html/dark_mode.html",
+		"/home/bandit-heeler/Downloads/javascript/dark_mode.html/dark_mode.css",
+		"/home/bandit-heeler/Downloads/javascript/AngularJS/angular_input.js",
+		"/home/bandit-heeler/Downloads/javascript/AngularJS/angular1_input_text.html",
+		"/home/bandit-heeler/Arduino/connectToWifi/html.txt",
+		"/home/bandit-heeler/Downloads/javascript/bandit-heeler/test.js",
+		"/home/bandit-heeler/Downloads/javascript/cafe/new-cafe.css",
+		"/home/bandit-heeler/Arduino/connectToWifi/connect.html",
+		"/home/bandit-heeler/Arduino/connectToWifi/test.html",
+		"/home/bandit-heeler/Arduino/connectToWifi/main_html.h",
+		"/home/bandit-heeler/Downloads/javascript/centering.html",
+		"/home/bandit-heeler/Downloads/javascript/again.html",
+		"/home/bandit-heeler/Arduino/connectToWifi/digital_literacy_in_higher_education.txt",
+		"/home/bandit-heeler/Arduino/connectToWifi/connectToWifi.ino",
+		"/home/bandit-heeler/Downloads/javascript/bandit-heeler/srtest.css",
+		"/home/bandit-heeler/Downloads/javascript/bandit-heeler/bandit-heeler.css",
+		"/home/bandit-heeler/Downloads/javascript/bandit-heeler/srtest.js",
+		"/home/bandit-heeler/Downloads/javascript/bandit-heeler/new-bandit.js",
+		"/home/bandit-heeler/Downloads/javascript/another_gaddamn_portfolio/profile-test.css",
+		"/home/bandit-heeler/Downloads/javascript/another_gaddamn_portfolio/profile-test.html",
+		"/home/bandit-heeler/Downloads/javascript/another_gaddamn_portfolio/again_portfolio.css",
+		"/home/bandit-heeler/Downloads/javascript/bandit-heeler/scroll-reveal-test.html",
+		"/home/bandit-heeler/Downloads/javascript/responsive/main.js",
+		"/home/bandit-heeler/Downloads/javascript/responsive/main.html",
+		"/home/bandit-heeler/Downloads/javascript/responsive/main.css",
+		"/home/bandit-heeler/Downloads/javascript/responsive/side_portfolio/side_main.css",
+		"/home/bandit-heeler/Downloads/javascript/another_gaddamn_portfolio/fucking_again.css",
+		"/home/bandit-heeler/Downloads/javascript/responsive/side_portfolio/side_main.html",
+		"/home/bandit-heeler/Downloads/javascript/task_manager_new/task-new.html",
+		"/home/bandit-heeler/Downloads/javascript/responsive/side_portfolio/story.txt",
+		"/home/bandit-heeler/Downloads/javascript/responsive/side_portfolio/side_another.css",
+		"/home/bandit-heeler/Downloads/javascript/responsive/side_portfolio/side_another.html",
+		"/home/bandit-heeler/Downloads/javascript/bandit-heeler/new-bandit.css",
+		"/home/bandit-heeler/Downloads/javascript/bandit-heeler/new-bandit-heeler.html",
+		"/home/bandit-heeler/Downloads/javascript/another_gaddamn_portfolio/fucking_again.html",
+		"/home/bandit-heeler/Downloads/javascript/another_gaddamn_portfolio/again_portfolio.html",
+		"/home/bandit-heeler/Downloads/javascript/bandit-heeler/bandit-heeler.js",
+		"/home/bandit-heeler/Downloads/javascript/bandit-heeler/bandit-heeler.html",
+		"/home/bandit-heeler/Downloads/javascript/responsive/side_portfolio/side_main.js",
+		"/home/bandit-heeler/.config/sublime-text/Packages/User/LiveReload.sublime-settings",
+		"/home/bandit-heeler/Downloads/0x82000.bin",
+		"/home/bandit-heeler/Downloads/javascript/bandit-heeler/test.html",
+		"/home/bandit-heeler/Downloads/javascript/react/reactjs/src/App.js",
+		"/home/bandit-heeler/Downloads/javascript/react/reactjs/src/index.js",
+		"/home/bandit-heeler/Documents/critique.txt",
+		"/home/bandit-heeler/Arduino/pirdetectina/pirdetectina.ino",
+		"/home/bandit-heeler/Arduino/pirdetection/pirdetection.ino",
+		"/home/bandit-heeler/Arduino/ultrasonicsensor/ultrasonicsensor.ino",
+		"/home/bandit-heeler/Downloads/javascript/portfolioo/portfolio-new-css.css",
+		"/home/bandit-heeler/Downloads/javascript/portfolioo/portfolio-new.html",
+		"/home/bandit-heeler/Downloads/javascript/cafe/dropdown.html",
+		"/home/bandit-heeler/Downloads/javascript/login/login.css",
+		"/home/bandit-heeler/Downloads/javascript/login/login.js",
+		"/home/bandit-heeler/Downloads/javascript/login/login.html",
+		"/home/bandit-heeler/Downloads/javascript/cafe/new-cafe.html",
+		"/home/bandit-heeler/Downloads/javascript/cafe/better.html",
+		"/home/bandit-heeler/Downloads/javascript/cafe/better.css",
+		"/home/bandit-heeler/Downloads/javascript/cafe/gradient.html",
+		"/home/bandit-heeler/Downloads/javascript/cafe/img-background-test.html",
+		"/home/bandit-heeler/Downloads/javascript/cafe/cafe-css.css",
+		"/home/bandit-heeler/Downloads/javascript/cafe/cafe-homepage.html",
+		"/home/bandit-heeler/.zsh_history",
+		"/home/bandit-heeler/no/ddddd.html",
+		"/home/bandit-heeler/Arduino/morse_code/morse_code.ino",
+		"/home/bandit-heeler/no/text.h",
+		"/home/bandit-heeler/challenges/grading_students_hackerrank.cpp",
+		"/home/bandit-heeler/challenges/grading_students_hackerrank",
+		"/home/bandit-heeler/Downloads/javascript/cacl-styles.css",
+		"/home/bandit-heeler/Downloads/javascript/cacl-js.js",
+		"/home/bandit-heeler/Downloads/javascript/task_manager/task.html",
+		"/home/bandit-heeler/Downloads/javascript/portfolio.html",
+		"/home/bandit-heeler/Downloads/javascript/portfoliocss.css",
+		"/home/bandit-heeler/Downloads/javascript/task_manager/task_css.css",
+		"/home/bandit-heeler/Downloads/javascript/cacl.html",
+		"/home/bandit-heeler/Downloads/mal/mal1.cpp",
+		"/home/bandit-heeler/challenges/mini_max_sum_hackerrank.cpp",
+		"/home/bandit-heeler/challenges/printminus_hackerrank.cpp",
+		"/home/bandit-heeler/challenges/diagonaldifferences.cpp",
+		"/home/bandit-heeler/no/no.ino",
+		"/home/bandit-heeler/Arduino/captive_portal/captive_portal.ino",
+		"/home/bandit-heeler/challenges/time_conversion.cpp",
+		"/home/bandit-heeler/Arduino/motordrive_node/motordrive_node.ino",
+		"/home/bandit-heeler/Downloads/javascript/calc.html",
+		"/home/bandit-heeler/Arduino/captive_portal/.zsh_history",
+		"/home/bandit-heeler/no.ino",
+		"/home/bandit-heeler/wodl.txt",
+		"/home/bandit-heeler/d.html"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"inputs[i.value]",
+			"All",
+			"elem",
+			".value",
+			"otherContainer",
+			"inputs",
+			"elem",
+			"= 0",
+			"otherContainers",
+			"type=\"text\"",
+			"prompt",
+			"#",
+			"\n\t",
+			"</p>",
+			"<p>",
+			"</p>",
+			"<p>",
+			"inventory",
+			"h2",
+			"</li>",
+			"<li>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 37.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "inventory.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Downloads/javascript/projects/inventory_system/main.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

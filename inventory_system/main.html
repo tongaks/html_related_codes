@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Inventory System</title>
+	<link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+	<section class="main-container">
+		<div class="navbar">
+			<a href="#">Home</a>
+			<a href="#">Menu</a>
+			<a href="#">Items</a>
+		</div>
+		<div class="inventory-container">
+			<div id="item" class="inventory-properties">Item</div>
+			<div id="begbal" class="inventory-properties">Beginning Balance</div>
+			<div id="delivery" class="inventory-properties">Delivery</div>
+			<div id="return" class="inventory-properties">Return</div>
+			<div id="totbal" class="inventory-properties">Total Balance</div>
+			<div id="endbal" class="inventory-properties">Ending Balance</div>
+			<div id="sale" class="inventory-properties">Sale</div>
+			<div id="price" class="inventory-properties">Price</div>
+			<div id="amount" class="inventory-properties">Amount</div>
+		</div>
+		<div class="buttons-container">
+			<div class="button" onclick="PromptAdd()">New item</div>			
+			<div class="button">Edit item</div>			
+			<div class="button" onclick="RemoveItemPrompt()">Remove item</div>			
+			<div class="button">Save</div>			
+		</div>
+		<div class="promptAdd">
+			<p>Item name</p>
+			<input id="itemName" type="text" value="">
+			<p>Beginning balance</p>
+			<input id="itemBegbal" type="text" value="">
+			<p>Delivery</p>
+			<input id="itemDelivery" type="text" value="">
+			<p>Return </p>
+			<input id="itemReturn" type="text" value="">
+			<p>Ending Balance</p>
+			<input id="itemEndbal" type="text" value="">
+			<p>Price</p>
+			<input id="itemPrice" type="text" value="">
+			<div class="button" onclick="AddItem()">Add</div>
+		</div>
+	</section>
+	<script type="text/javascript" src="new-main.js"></script>
+</body>
+</html>

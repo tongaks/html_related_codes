@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>dropdown</title>
+</head>
+<style>
+	* {
+		text-decoration: none;
+		list-style: none;
+	}
+
+	.button {
+		padding: 10px;
+		background-color: green;
+		color: white;
+		width: fit-content;
+		user-select: none;
+		cursor: pointer;
+	}
+
+	.change-season-menu {
+		display: none;
+		flex-direction: column;
+		width: fit-content;
+		box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5);
+	}
+
+	.change-season-menu a {
+		color: black;
+		padding: 10px;
+	}
+
+	.change-season-menu a:hover {
+		background-color: gray;
+	}
+</style>
+<body>
+	<div class="change-season-container">
+		<div class="button" onclick="ShowMenu()">Seasons</div>
+		<div class="change-season-menu" id="change-season-menu">
+			<a href="#">Season 1</a>
+			<a href="#">Season 2</a>
+			<a href="#">Season 3</a>
+		</div>
+	</div>
+	<script type="text/javascript">
+		let isMenuOpen = false;
+		function ShowMenu() {
+			let menu = document.getElementById('change-season-menu');
+			if (!isMenuOpen) {
+				menu.style.display = 'flex';
+				isMenuOpen = true;
+			} else {
+				menu.style.display = 'none';
+				isMenuOpen = false;
+			}
+		}
+	</script>
+</body>
+</html>
